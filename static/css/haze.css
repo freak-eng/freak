@@ -1,0 +1,57 @@
+ul{
+    list-style-type: none;
+margin: 0;
+    padding: 0;
+    overflow:hidden;
+    background-color: crimson;
+}
+li{
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+li,a{
+    padding: 30px;
+}
+li,a:hover{
+    color: lightcoral;
+}
+.fruits{
+    background-color: darkgreen;
+    border:50px black;
+    margin: 15px;
+    padding: 20px;
+    text-align: center;
+    color: lightgray;
+}
+.cars{
+    background-color: fuchsia;
+    border: 50px mediumspringgreen;
+    margin:15px ;
+    padding: 20px;
+    text-align: center;
+    color: silver;
+}
+.FRUITS{
+    background-color: mediumseagreen;
+    border: 50px navajowhite;
+    margin: 15px;
+    padding: 20px;
+    text-align: center;
+    color: salmon;
+}
+#matunda{
+    background-color: gold;
+    border: 20px dotted chartreuse;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#magari{
+    background-color: fuchsia;
+    border:20px dotted blueviolet ;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}

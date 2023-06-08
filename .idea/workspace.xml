@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="227396dd-88b0-416b-9c49-2bb65a711734" name="Changes" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/.idea/FREAK.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/About Us.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/Contact US.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/HEADING.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/Services Page.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/class.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/forms.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/ids.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/iframe.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/images.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/apple.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/bananas.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/bikes.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/flag.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/flag.png.png" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/grenade.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/guns.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/house.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/light.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/melons.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/melons.png" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/pen knife.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/subaru.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/subaru.png" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/img/van.jfif" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/index.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/links.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/list.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/navigationlist.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/registrationform.html" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/static/css/formatstyle.css" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/static/css/haze.css" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/FREAK/table.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/FREAK" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2QGxhoki9uH40KyDUbMEJauwVWO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/AppData/Local/JetBrains/Toolbox/apps/PyCharm-P/ch-0/231.9011.38/jbr/bin/FREAK/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\AppData\Local\JetBrains\Toolbox\apps\PyCharm-P\ch-0\231.9011.38\jbr\bin\FREAK\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="227396dd-88b0-416b-9c49-2bb65a711734" name="Changes" comment="" />
+      <created>1684993842371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684993842371</updated>
+      <workItem from="1684993848972" duration="3163000" />
+      <workItem from="1685023266587" duration="1169000" />
+      <workItem from="1685077621900" duration="8974000" />
+      <workItem from="1685100324060" duration="1310000" />
+      <workItem from="1685165082002" duration="5131000" />
+      <workItem from="1685205174541" duration="1927000" />
+      <workItem from="1685255411412" duration="3064000" />
+      <workItem from="1685345410794" duration="671000" />
+      <workItem from="1685424817326" duration="7503000" />
+      <workItem from="1685432546203" duration="819000" />
+      <workItem from="1685511708445" duration="5795000" />
+      <workItem from="1685599146691" duration="5441000" />
+      <workItem from="1685769767575" duration="8055000" />
+      <workItem from="1686118835528" duration="677000" />
+      <workItem from="1686120644716" duration="311000" />
+      <workItem from="1686120981361" duration="178000" />
+      <workItem from="1686121255575" duration="459000" />
+      <workItem from="1686121741216" duration="54000" />
+      <workItem from="1686121817429" duration="50000" />
+      <workItem from="1686121886261" duration="435000" />
+      <workItem from="1686122417597" duration="911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
